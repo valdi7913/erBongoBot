@@ -1,7 +1,7 @@
 # erBongoBot
 Discord botti til að checka hvort að það sé BONGÓ!!!
 
-#API
+### API
 
 Notar api fengið af [apis.is]{http://docs.apis.is/}
 
